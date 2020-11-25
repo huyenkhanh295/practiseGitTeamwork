@@ -8,7 +8,7 @@ meo meo meo
 >>>>>>> c6d74fadecb1f6216a579fbc81690b2193b4ee83
 Hello, my name is Vo Pham Huyen Khanh
 <<<<<<< HEAD
-Hello, my name us Nguyen Ba 
+Hello, my name us Nguyen Ba Dat 
 Helloosdf 
 =======
 Hello, my name is Nguyen Ba 
