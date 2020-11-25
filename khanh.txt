@@ -1,5 +1,17 @@
 Our team have many member
+meo meo meo
 Our team have 3 member
+<<<<<<< HEAD
+=========== *** ===========
+=======
+meo meo meo
+>>>>>>> c6d74fadecb1f6216a579fbc81690b2193b4ee83
 Hello, my name is Vo Pham Huyen Khanh
+<<<<<<< HEAD
 Hello, my name us Nguyen Ba Dat
 Helloosdf 
+=======
+Hello, my name is Nguyen Ba Dat
+Hello, my name is Tran Thi Thanh Thao
+meomeomeo
+>>>>>>> b2f1da377e4dfb3cb7983f469ca4a62261bfd7e4
